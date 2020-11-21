@@ -1,0 +1,15 @@
+.container {
+  padding: 0.5em;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.sketch {
+  height: 10em;
+  width: 100%;
+}
